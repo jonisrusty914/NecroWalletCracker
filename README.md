@@ -33,7 +33,7 @@ The Android version is currently under development.
 > 🚧 Coming Soon
 
 <!--
-[⬇ Download for Android](YOUR_ANDROID_DOWNLOAD_LINK)
+[⬇ Download for Android]()
 -->
 
 ---
